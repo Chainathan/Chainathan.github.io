@@ -5,8 +5,7 @@ description: Vision Transformer and MediaPipe pipeline for rapid, automated obje
 img: assets/img/annotate.gif
 importance: 1
 category: work
-related_publications: true
-external_link: https://github.com/Chainathan/automated-video-annotation-of-objects-in-high-speed-hand-movements
+redirect: https://github.com/Chainathan/automated-video-annotation-of-objects-in-high-speed-hand-movements
 ---
 
 <!-- Every project has a beautiful feature showcase page.

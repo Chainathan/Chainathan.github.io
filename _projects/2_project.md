@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Text-to-Music Generation
+description: Stable Diffusion with Spectrogram images and latent space interpolation
+img: assets/img/spectrogram.png
 importance: 2
 category: work
-giscus_comments: true
+redirect: https://github.com/Chainathan/text-to-music-generation
 ---
 
 Every project has a beautiful feature showcase page.
