@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Art Style Transfer
+description: VGG16 - Feature extraction and Style transfer
+img: assets/img/style.jpg
+importance: 5
+redirect: https://github.com/Chainathan/style-transfer
 ---
 
 Every project has a beautiful feature showcase page.

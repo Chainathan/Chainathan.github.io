@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Research Paper Summarization
+description: Finetuned Gemma-7B, LLaMA-7B, and Mistral-7B for hybrid long-context summarization
+img: assets/img/transformer.png
 importance: 3
-category: fun
+redirect: https://github.com/Chainathan/research-paper-summarization
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
-related_publications: true
+title: Tiny Torch Utils
+description: Custom PyTorch Model Training framework with gradient stats and callback options
+img: assets/img/pytorch.png
+importance: 6
+redirect: https://github.com/Chainathan/tiny-torch-util
 ---
 
 Every project has a beautiful feature showcase page.

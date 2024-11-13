@@ -4,7 +4,6 @@ title: Text-to-Music Generation
 description: Stable Diffusion with Spectrogram images and latent space interpolation
 img: assets/img/spectrogram.png
 importance: 2
-category: work
 redirect: https://github.com/Chainathan/text-to-music-generation
 ---
 

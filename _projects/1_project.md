@@ -4,7 +4,6 @@ title: Automated Annotation of Object Positions in High-Speed Videos
 description: Vision Transformer and MediaPipe pipeline for rapid, automated object detection and annotation.
 img: assets/img/annotate.gif
 importance: 1
-category: work
 redirect: https://github.com/Chainathan/automated-video-annotation-of-objects-in-high-speed-hand-movements
 ---
 

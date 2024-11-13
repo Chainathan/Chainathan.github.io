@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Image Generation with Stable Diffusion
+description: Implementation of Stable Diffusion with Noise Samplers from scratch
+img: assets/img/bedroom_denoise.gif
+importance: 4
+redirect: https://github.com/Chainathan/unguided-image-generation
 ---
 
 Every project has a beautiful feature showcase page.
